@@ -19,7 +19,7 @@ module.exports = {
           "https://media.discordapp.net/attachments/791046378091970581/876700585074786355/SAVE__.jpg"
         )
         .setThumbnail(client.user.avatarURL({ dynaimc: true }))
-        .setColor(RANDOM)
+        .setColor(0x2f3136)
         .setFooter(
           client.user.username,
           client.user.avatarURL({ dynaimc: true })

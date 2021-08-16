@@ -17,7 +17,7 @@ module.exports = async function(client) {
   try {
     const { body } = await request.get(require("../../config/bot").expressURL);
   } catch (err) {}
-  await client.user.setStatus("idle");
+  await client.user.setStatus("");
   await client.user.setActivity("A!help ~ Azkar قرآن", { type: "LISTENING" });
   console.log(
     chalk.red.bold(client.user.username) + chalk.blue.bold(" is online")

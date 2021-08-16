@@ -32,7 +32,7 @@ module.exports = {
 **Command Azkar**
 > 🕌 \`${prefix}set-azkar-channel\`
 > 🕌 \`${prefix}set-azkar-embed\` 
-> 🕌 \`${prefix}set-taim 
+> 🕌 \`${prefix}set-azkar-time\`
 > 🕌 \`${prefix}set-azkar-toggle\` 
 > 🕌 \`${prefix}morning\` 
 > 🕌 \`${prefix}evening\` 

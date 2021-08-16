@@ -16,10 +16,10 @@ module.exports = {
       new MessageEmbed()
         .setAuthor(
           "🕌 Help Azkar",
-          "https://athkarapp.com/images/athkarLogo.png"
+          "https://media.discordapp.net/attachments/791046378091970581/876700585074786355/SAVE__.jpg"
         )
         .setThumbnail(client.user.avatarURL({ dynaimc: true }))
-        .setColor(0x2f3136)
+        .setColor(#EED936)
         .setFooter(
           client.user.username,
           client.user.avatarURL({ dynaimc: true })

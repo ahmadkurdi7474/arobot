@@ -45,4 +45,4 @@ fs.readdir(__dirname + "/bot/commands/", (err, files) => {
     });
 });
 
-client.login(require("./config/bot").token).catch(err => console.log(chalk.red.bold(err)))
+client.login("")

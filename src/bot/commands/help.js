@@ -27,6 +27,7 @@ module.exports = {
 **All Command**
 > 🕌 \`${prefix}help\`
 > 🕌 \`${prefix}ping\`
+> 🕌 \`${prefix}set-prefix\`
 
 **Command Azkar**
 > 🕌 \`${prefix}set-azkar-channel\`

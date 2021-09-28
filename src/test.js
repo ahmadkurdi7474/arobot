@@ -1,2 +1,2 @@
-console.log('ODc1Nzk5NjIxNTQzMjg4ODYy.YRax9Q.0LtoPyyY3XK3fZKli9GeuCi63LM')
+console.log('ODkyMzIwODI2MjA3MTI1NTI0.YVLMhw.hyppei_dzZ0taNR0JJAe0XXtt0s')
 // just fot test commands
